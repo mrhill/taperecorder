@@ -74,7 +74,7 @@ Data Modulation, Packet and File Formats
 
    Files are stored in packets (chunks) of 130 bytes each:
 
-   <Long Synctone><Packet 1> <Synctone><Packet 2> ... <Synctone><Packet N>
+   < Long Synctone >< Packet 1 > < Synctone >< Packet 2 > ... < Synctone >< Packet N >
 
    - 1 byte    : Packet ID
    - 128 bytes : Data
